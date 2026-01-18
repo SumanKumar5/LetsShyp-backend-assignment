@@ -180,12 +180,3 @@ This backend demonstrates:
 
 It mirrors real-world hyperlocal logistics challenges in a simplified but production-grade manner.
 
----
-
-## Optional Enhancements
-
-* Swagger / OpenAPI documentation
-* Postman collection
-* Unit tests (Jest)
-* Dockerfile for containerized run
-* Persistence layer (SQLite / PostgreSQL)
